@@ -1,4 +1,4 @@
-# wxapp-leftSwiperDel
+# leftSwiperDel
 微信小程序---左滑删除
 
 #效果图
